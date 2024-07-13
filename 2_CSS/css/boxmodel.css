@@ -1,0 +1,16 @@
+.box-model-all{
+    border: 2px solid #000fff;
+    padding: 2px 33px;
+    outline: 2px solid brown;
+    background-color: #ff0005;
+    border-radius: 5px;
+    width: 300px;
+    height: 200px;
+
+}
+
+#tittle-h2{
+    color: #fff;
+    border: none;
+    background-color: #000;
+}
